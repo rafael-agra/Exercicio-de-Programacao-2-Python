@@ -36,7 +36,6 @@ Funções auxiliares **`polinomioToString`** e **`sig`** geram strings de polin�
 ```
 ├── ep02.py          # Código‑fonte completo (339 linhas)
 ├── LICENSE          # MIT
-└── README.md        # (substituir por este 🙂)
 ```
 
 ## Instalação 🔧
